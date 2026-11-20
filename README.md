@@ -54,34 +54,75 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Publico vídeos diariamente no canal DestinosEDesatinos (Instagram e Youtube, em construção ainda). Nesta atividade utilizei IA para apoiar a publicação de um vídeo sobre o caminho para Pink Sands Beach, em Harbour Island, Bahamas.
+
+Escolhi essa tarefa porque faz parte da minha rotina diária como criador de conteúdo. A IA me ajudou a acelerar a criação de títulos, descrições, hashtags e ideias para novos vídeos sem abrir mão da revisão final.
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Utilizei dois atalhos adaptados para a realidade do meu canal.
 
-```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+Você é um especialista em SEO para YouTube e turismo.
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
+Com base no destino informado, gere:
+
+- 5 títulos atrativos para o vídeo;
+- uma descrição otimizada para YouTube;
+- 10 hashtags relevantes;
+- uma chamada para ação para os inscritos.
+
+Público-alvo: pessoas interessadas em viagens, turismo e descoberta de destinos.
+Você é um estrategista de conteúdo para canais de viagem.
+
+Com base no vídeo publicado, sugira:
+
+- 5 ideias para novos vídeos;
+- 3 ideias para Shorts;
+- dúvidas que os inscritos podem ter;
+- destinos relacionados para conteúdo futuro.
+
+Considere um canal focado em viagens e experiências turísticas.
 
 ### Minha Delegação
 
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+Objetivo:
+Preparar os materiais de divulgação de um vídeo do canal DestinosEDesatinos.
+
+Contexto:
+O vídeo publicado mostra o caminho para Pink Sands Beach, em Harbour Island, Bahamas.
+
+Recursos:
+Utilização de IA para gerar títulos, descrição, hashtags e ideias para novos conteúdos.
+
+Limites:
+Não inventar informações sobre o local e manter linguagem adequada para turistas e viajantes.
+
+Critério de sucesso:
+Gerar sugestões úteis que possam ser revisadas e utilizadas na publicação do vídeo.
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+A IA sugeriu títulos alternativos, descrição otimizada, hashtags relacionadas ao destino e ideias de conteúdos futuros para o canal.
+
+Antes de utilizar as sugestões, revisei os textos para garantir que representavam corretamente o conteúdo gravado e que não continham informações incorretas sobre o destino.
+<img width="756" height="294" alt="image" src="https://github.com/user-attachments/assets/3cafedde-5ce6-49a7-88b3-430b2b1e18c9" />
+<img width="740" height="511" alt="image" src="https://github.com/user-attachments/assets/60473c9a-dcd3-4a7b-8daf-40b861ab11b5" />
+<img width="744" height="504" alt="image" src="https://github.com/user-attachments/assets/4fff056e-3c40-49eb-9a6e-5d292ba2e999" />
+<img width="741" height="453" alt="image" src="https://github.com/user-attachments/assets/087da99d-9fa1-416d-9e10-8080c50d0f98" />
+<img width="748" height="465" alt="image" src="https://github.com/user-attachments/assets/76e4c108-0f01-433a-956e-0de327961063" />
+<img width="726" height="368" alt="image" src="https://github.com/user-attachments/assets/2f808802-bff3-4167-b2e8-ee8ac8f02b83" />
+<img width="771" height="529" alt="image" src="https://github.com/user-attachments/assets/80059543-e892-4ab0-b225-0ad119bfd4cf" />
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+A IA produziu materiais que serviram como base para a publicação do vídeo. Os títulos e a descrição ajudaram a economizar tempo na preparação do conteúdo.
+
+Antes da publicação, conferi todas as informações geradas e realizei ajustes para manter a precisão e a identidade do canal.
+<img width="867" height="568" alt="image" src="https://github.com/user-attachments/assets/ef1ed1bc-8c29-4709-913f-7b13bed1bb53" />
+
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+A utilização da IA tornou mais rápido o processo de preparação dos vídeos publicados no canal DestinosEDesatinos. Além de economizar tempo, a ferramenta ajudou na geração de novas ideias de conteúdo e na organização das informações para publicação.
+
+Mesmo utilizando IA, mantive a revisão humana em todas as etapas para garantir a qualidade e a confiabilidade do material publicado.
